@@ -12,7 +12,7 @@ I build **frontend experiences** that delight users and **backend systems** that
 
 ---
 
-## ⚙️ Backend Projects ([Backend-Lab Org](https://github.com/backend-lab))
+## ⚙️ Backend Projects ([Backend-Lab Org](https://github.com/haymaykus-be))
 - [ShipFlow](https://github.com/haymaykus-be/ShipFlow) – A logistics-focused dispatch & tracking engine
 
 ---
