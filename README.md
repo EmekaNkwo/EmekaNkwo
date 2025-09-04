@@ -6,8 +6,7 @@ I build **frontend experiences** that delight users and **backend systems** that
 ---
 
 ## 🎨 Frontend Projects (Personal Account)
-- [Social Media App]([https://github.com/yourusername/fe-nextjs-banking-portal](https://github.com/EmekaNkwo/Social-App)) – About
-Next.js 15 based full-stack social media application featuring infinite scrolling, real-time interactions through chatrooms, likes, comments, bookmarks, secure authentication, notifications, and robust file upload validations.  
+- [Social Media App](https://github.com/EmekaNkwo/Social-App) – Next.js 15 based full-stack social media application featuring infinite scrolling, real-time interactions through chatrooms, likes, comments, bookmarks, secure authentication, notifications, and robust file upload validations.  
 - [UnifiedStock](https://github.com/EmekaNkwo/UnifiedStock) – A modern, offline-first Progressive Web Application for comprehensive inventory management.
 - [E-Shop - Modern E-commerce Application](https://github.com/EmekaNkwo/E-Shop) – A modern, responsive e-commerce application built with Angular, NgRx for state management, and Angular Material for UI components. 
 
