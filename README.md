@@ -1,8 +1,5 @@
 # 👋 Hi, I'm Emeka Nkwo
 
-💻 **Software Engineer focused on scalable backend systems and modern web applications**  
-🌍 Lagos, Nigeria  
-
 I build **high-performance APIs, financial platforms, and real-time web applications** using modern cloud-native technologies.  
 My experience spans **fintech infrastructure, healthcare systems, and developer tooling**.
 
